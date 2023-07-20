@@ -22,3 +22,18 @@
 | Nombre | **Practica 3** *Hello World Wearable* |
 | Descripción  |  Creación de primer mensaje de hola mundo para wearables cuadrados y redondos, realizada en Android Studio |
 |  Fecha de Carga | 19/05/23  |
+
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
